@@ -5,5 +5,7 @@ written in C price in DarkWeb 150$ to buy it.
 
 # Wait More Leaked 
 
-[![Offset 7 Leaked Source](http://offset7.com/)]
+[![Offset 7 Leaked Source]]
+http://offset7.com/
+
 
